@@ -21,3 +21,5 @@ This Dashboard📊 provides data-driven insights into our sales performance, whi
 6. San Francisco is Top city by sales.
 
 7. Top 5 Best Sellers :- Our Top 5 sold products include, MacBook Pro Laptop, iPhone, ThinkPad Laptop, Google Phone and 27-inch 4K Gaming Monitor.
+
+Link :- https://www.novypro.com/project/salesdataanalysisdashboard
